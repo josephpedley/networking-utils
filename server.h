@@ -15,7 +15,7 @@
 #include <format>
 
 
-namespace server_utils
+namespace net_utils
 {
 
 using socketFd = int;
